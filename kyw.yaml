@@ -2,7 +2,7 @@ cameras:
   - name: "絹子ベッド上カメラ"
     rtspUrl: "rtsp://10.10.1.26:554/"
   - name: "トイレ前カメラ"
-    rtspUrl: "rtsp://admin:@10.10.1.18:554/"
+    rtspUrl: "rtsp://admin:@10.10.1.18:554/0/av1"
   - name: "絹子部屋入口カメラ"
     rtspUrl: "rtsp://10.10.1.28:554/"
   - name: "冷蔵庫カメラ"
