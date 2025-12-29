@@ -1,0 +1,11 @@
+cameras:
+  - name: "絹子ベッド上カメラ"
+    rtspUrl: "rtsp://10.10.1.26:554/"
+  - name: "トイレ前カメラ"
+    rtspUrl: "rtsp://admin:@10.10.1.18:554/"
+  - name: "絹子部屋入口カメラ"
+    rtspUrl: "rtsp://10.10.1.28:554/"
+  - name: "冷蔵庫カメラ"
+    rtspUrl: "rtsp://10.10.1.8:554/"
+  - name: "玄関外カメラ"
+    rtspUrl: "rtsp://admin:admin@10.10.1.25:554/ch0_0.264"
